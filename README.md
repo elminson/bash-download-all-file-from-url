@@ -3,4 +3,24 @@ This simple bash script download all files from a url you can specify the url an
 
 The file need 777 permision
 
+The script create one temporal file and one temporal folder 
+
+This script just use basic linux commands, other solutions use lynx ans awk, i only use wget and sed (in my oppinion sed is better than awk for this specific case)   
+
 Usage: ./files_downloader.sh [url] [file_format] 
+
+Commands used:
+if/then/fi
+exit
+echo
+wget
+sed
+tr
+fold
+head
+cat
+grep
+mkdir
+cd
+for/in/do/done
+
