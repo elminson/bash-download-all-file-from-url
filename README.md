@@ -9,7 +9,7 @@ This script just use basic linux commands, other solutions use lynx ans awk, i o
 
 Usage: ./files_downloader.sh [url] [file_format] 
 
-Commands used:
+Commands used: <br>
 if/then/fi <br>
 exit <br>
 echo <br>
