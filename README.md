@@ -10,8 +10,8 @@ This script just use basic linux commands, other solutions use lynx ans awk, i o
 Usage: ./files_downloader.sh [url] [file_format] 
 
 Commands used:
-if/then/fi
-exit
+if/then/fi \n
+exit \n
 echo
 wget
 sed
