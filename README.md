@@ -10,17 +10,17 @@ This script just use basic linux commands, other solutions use lynx ans awk, i o
 Usage: ./files_downloader.sh [url] [file_format] 
 
 Commands used:
-if/then/fi \n
-exit \n
-echo
-wget
-sed
-tr
-fold
-head
-cat
-grep
-mkdir
-cd
-for/in/do/done
+if/then/fi <br>
+exit <br>
+echo <br>
+wget <br>
+sed <br>
+tr <br>
+fold <br>
+head <br>
+cat <br>
+grep <br>
+mkdir <br>
+cd <br>
+for/in/do/done <br>
 
